@@ -4,3 +4,5 @@ function isPrime(num) {
           return false; 
     return num > 1;
 }
+
+console.log(isPrime(10));
